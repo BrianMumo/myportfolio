@@ -430,3 +430,8 @@ footer {
 footer p {
   text-align: center;
 }
+
+.bitcoin {
+  justify-content: center;
+  padding-top: 165px;
+}
